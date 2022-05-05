@@ -22,4 +22,4 @@ for i in range(0, n):
         break
     suma += pole(temp)
 if k != 1:
-    print(suma)
+    print(round(suma, 2))
